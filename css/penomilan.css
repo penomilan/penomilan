@@ -1,3 +1,6 @@
+body {
+    font-family: monospace;
+}
 #photo {
         padding-top: 40%;
         padding-bottom: 30%;
@@ -6,8 +9,8 @@
         background-size: cover;
         background-position: center;
         height: 100%;
-        color: #e6e6e6;
-  }
+        color: #e6e6e6
+      }
     .navbar {
         background-color: whitesmoke;
     }
@@ -16,22 +19,28 @@
         margin-bottom: 45px;
         margin-top: 45px;
     }
-    #contact {
-        background-color: #ffad33;
-        padding-bottom: 5%;
-    }
     #about {
-        background-color: #85adad;
+        background-color: #f2f2f2;
         padding-bottom: 5%;
+        padding-top: 5%;
+        padding-left: 10%;
+        padding-right: 10%;
     }
     #projects {
+        padding-top: 5%;
         padding-bottom: 5%;
         background-color: #e6e6e6;
     }
+    #contact {
+        background-color: #d9d9d9;
+        padding-bottom: 5%;
+        padding-top: 5%;
+    }
 
     footer {
-        margin-top: 45px;
         height: 90px;
-        padding-top: 45px;
-        background-color: whitesmoke;
+        padding-top: 5%;
+        background-color: #cccccc;
+        color: #a6a6a6
+;
     }

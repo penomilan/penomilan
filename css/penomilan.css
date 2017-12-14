@@ -17,14 +17,10 @@ body {
     }
     #about {
         background-color: #f2f2f2;
-        padding-bottom: 5%;
-        padding-top: 5%;
-        padding-left: 10%;
-        padding-right: 10%;
+        padding: 5%;
     }
     #projects {
-        padding-top: 5%;
-        padding-bottom: 5%;
+        padding: 5%;
         background-color: #e6e6e6;
     }
     #contact {
@@ -41,13 +37,15 @@ body {
     #separator {
         background-color: #cccccc;
         height: 1px;
-        width: 100%;
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
     }
     #description {
-        padding: 5%;
+        padding: 5%
     }
 a {
-    color: #009900;
+    color: #00b300;
 }
 a:hover {
     color: #00cc00;

@@ -41,6 +41,13 @@ body {
         height: 90px;
         padding-top: 5%;
         background-color: #cccccc;
-        color: #a6a6a6
-;
+        color: #a6a6a6;
+    }
+    #separator {
+        background-color: #cccccc;
+        height: 1px;
+        width: 100%;
+    }
+    #description {
+        padding: 5%;
     }
